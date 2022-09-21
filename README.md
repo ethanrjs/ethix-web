@@ -1,10 +1,12 @@
 # Ethix
-Psuedoshell I wrote in javascript to interact with a filesystem. Has an embedded package manager and repository
+Psuedoshell I wrote in javascript to interact with a containerized filesystem. The github version of Ethix. Essentially, you're interacting with a nodejs backend using a frontend web-based terminal.
+
+## HOW TO START
+All you need to do is type `node app.js` a terminal environment pointing to the project directory and your Ethix backend will be started. You can interact with this backend by opening your browser and navigating to http://localhost
 
 ## TODO LIST
-1) ~~When fetching for a package in the local /packages folder, read the package json and set the srcs to those scripts as well~~
-2) ~~Create an API for hotkeys and an event listener~~ (Unncessary -- packages have full access to all JS event listeners
-3) Host an online repository with packages that users can download from the command line at any time
-4) ~~Log the previous commands and write them into the console when the page loads~~
-5) Add more default commands to the script.js file
-6) ~~Make the code more organized (like separating default commands into its own file)~~
+1. Host online repository with packages
+2. Make documentation more verbose and descriptive
+3. Optimize existing code
+4. Add themes
+5. Add user profiles
