@@ -1,0 +1,9 @@
+{
+    "name": "HelloWorld",
+    "version": "1.0.0",
+    "description": "Prints hello world to the Terminal",
+    "author": "Ethan",
+    "scripts": [
+        "index.js"
+    ]
+}
