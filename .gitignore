@@ -1,3 +1,5 @@
 ./node_modules
 ./public/termpackages
 ./log.log
+./commands.log
+./fs/*
